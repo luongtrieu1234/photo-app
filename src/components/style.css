@@ -1,5 +1,8 @@
 /* Reset some default styles */
-body,
+body {
+  background-color: #d2e0fb;
+}
+,
 html {
   margin: 0;
   padding: 0;
